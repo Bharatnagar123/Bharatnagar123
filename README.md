@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bharatnagar123
+- 👋 Hi, I’m @Bharat_Nagar
 - 👀 I’m interested in data analytics...
 - 🌱 I’m currently learning .machine learning..
 - 💞️ I’m looking to collaborate on ..machine learning algoritham.
